@@ -1,0 +1,11 @@
+PROJECT 1 | LESSON 1
+Required Readings
+Required Readings for this Lab are open access, which means you can access them at no cost.
+
+A full PDF this Lab's textbook "Understanding Deep Learning" can be downloaded at https://udlbook.github.io/udlbook/ Prince, S. J. D. (2023). Understanding deep learning. The MIT Press.
+
+Required Sections: 1.1 (Supervised learning), 2.1–2.2 (Supervised learning overview; Linear regression example), 3.1 (Neural network example), 4.1–4.2 (Composing neural networks; From composing networks to deep networks)
+Estimated reading time: 15 minutes per section
+NOTE: You will be assessed on the content in Required Readings through graded tasks in your virtual machines.
+
+https://udlbook.github.io/udlbook/
